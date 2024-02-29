@@ -19,6 +19,8 @@ This project explores video game sales data to understand the market share for t
 
 ## Purpose of This Project
 
+The agenda is to gather insight into the factors that effect a publisher's market share, by examing the genre of each title published, the populatity of said genre etc.
+
 ## About Data
 
 | Column Name  | Description | Data Type |
@@ -78,6 +80,3 @@ The release year of a title provides important insights such as when a genre gai
 8) Which game title has the highest profit?
 
 9) What is the profit for each genre?
-
-## Observations
-
