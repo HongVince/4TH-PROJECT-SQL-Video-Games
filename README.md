@@ -5,9 +5,17 @@
     
 ## About
 
-This project expplores video game sales data to understand the market share for the different game publishers. Additionally, identifying the factors that make a game sucessful will shed light onto the modern day gaming industry. More specifically, genre and developer. 
+This project explores video game sales data to understand the market share for the different game publishers. Additionally, identifying the factors that make a game title successful will shed light onto the modern day gaming industry landscape. The two most influential factors in higher sales number are genre and developer. Like the retail industry, a brand's name has a big infulence on a consumer's mindset. The developer can be compared to the brand name in the gaming industry.
 
 ## Key Points Mentioned Above
+
+- The sales number by game title
+- The most popular genre
+- The highest profit by genre
+- The highest profit by game series (GTA, the Elder Scrolls etc.)
+- The profit by developer
+- The number of games developed by a developer
+- The number of games published by a publisher
 
 ## Purpose of This Project
 
