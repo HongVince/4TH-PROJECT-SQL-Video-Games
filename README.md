@@ -42,9 +42,14 @@ Identifying the various developers associated with each publisher will shed ligh
 
 ### 3) The Release Year
 
-The release year of a title provides important insight such as 
+The release year of a title provides important insights such as when a genre gained popularity.
 
 ## Approaches Used
+
+1) **Data Cleaning:** Involves the inspection of the dataset to ensure the data IS NOT NULL, or missing values.
+
+       a) Developing a database
+       b) Creating tables to import data ihto
 
 ## Questions Answered
 
