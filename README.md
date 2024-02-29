@@ -5,6 +5,8 @@
     
 ## About
 
+This project expplores video game sales data to understand the market share for the different game publishers. Additionally, identifying the factors that make a game sucessful will shed light onto the modern day gaming industry. More specifically, genre and developer. 
+
 ## Key Points Mentioned Above
 
 ## Purpose of This Project
