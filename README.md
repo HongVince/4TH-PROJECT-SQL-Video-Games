@@ -23,7 +23,7 @@ This project explores video game sales data to understand the market share for t
 
 | Column Name  | Description | Data Type |
 | ---------   | --------- | --------- |
-| Sales_in_millions | The sales number in USD | NVARCHAR(100) |
+| Sales_in_millions | The sales number in USD | FLOAT |
 | Release | The release year of a title | NVARCHAR(50) |
 | Genre | The genre of a particular title | NVARCHAR(50) |
 | Developer | As the name suggests | NVARCHAR(50) |
@@ -31,9 +31,17 @@ This project explores video game sales data to understand the market share for t
 
 ## Analysis List
 
-### 1)
+### 1) Top Genres
 
-### 2)
+### 2) Top Publishers
+
+### 2a) The Market Share of each Publisher
+
+### 3) Number of Titles of a Particular Genre Released by Year
+
+### 4) Year With the Most Titles Released
+
+### 5)
 
 ## Approaches Used
 
