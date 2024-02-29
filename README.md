@@ -21,6 +21,14 @@ This project explores video game sales data to understand the market share for t
 
 ## About Data
 
+| Column Name  | Description | Data Type |
+| ---------   | --------- | --------- |
+| Sales_in_millions | The sales number in USD | NVARCHAR(100) |
+| Release | The release year of a title | NVARCHAR(50) |
+| Genre | The genre of a particular title | NVARCHAR(50) |
+| Developer | As the name suggests | NVARCHAR(50) |
+| Publisher | As the name suggests | NVARCHAR(50) |
+
 ## Analysis List
 
 ### 1)
