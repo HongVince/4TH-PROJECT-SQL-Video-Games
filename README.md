@@ -60,15 +60,23 @@ The release year of a title provides important insights such as when a genre gai
 
 1) What are the most popular genres?
 
-2) Which Publisher owns the majority of the market share?
+2) Which publisher owns the majority of the market share?
 
-    2a) The Market Share of each Publisher
+    2a) What is the market share of each publisher
 
-3) Number of Titles of a Particular Genre Released by Year
+3) What is the number of genres released each year?
 
-4) Year With the Most Titles Released
+4) What year has the most titles released?
 
-### 5)
+5) How many games did each publisher release?
+
+6) How many games were developed by each development team?
+
+7) What is the profit of each publisher?
+
+8) Which game title has the highest profit?
+
+9) What is the profit for each genre?
 
 ## Observations
 
