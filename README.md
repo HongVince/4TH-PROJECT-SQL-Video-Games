@@ -32,26 +32,19 @@ This project explores video game sales data to understand the market share for t
 
 ## Analysis List
 
-### 1) Genres
+### 1) Genre and Game Titles
 
+### 2) Publishers and their Developers
 
-### 2) Top Publishers
-
-### 2a) The Market Share of each Publisher
-
-### 3) Number of Titles of a Particular Genre Released by Year
-
-### 4) Year With the Most Titles Released
-
-### 5) 
+### 3) The Release Year
 
 ## Approaches Used
 
 ## Questions Answered
 
-1) Top Genres
+1) What are the most popular genres?
 
-2) Top Publishers
+2) Which Publisher owns the majority of the market share?
 
     2a) The Market Share of each Publisher
 
