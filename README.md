@@ -5,7 +5,7 @@
     
 ## About
 
-This project explores video game sales data to understand the market share for the different game publishers. Additionally, identifying the factors that make a game title successful will shed light onto the modern day gaming industry landscape. The two most influential factors in higher sales number are genre and developer. Like the retail industry, a brand's name has a big infulence on a consumer's mindset. The developer can be compared to the brand name in the gaming industry.
+This project explores video game sales data to understand the market share for the different game publishers. Additionally, identifying the factors that make a game title successful will shed light onto the modern day gaming industry landscape. The two most influential factors in higher sales number are genre and developer. Like the retail industry, a brand's name has a big infulence on consumer mindset. The name of a developer can be compared to brand name.
 
 ## Key Points Mentioned Above
 
