@@ -1,7 +1,7 @@
 # 4TH-PROJECT-SQL-Video-Games
 
     Dataset: https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales/data?select=video_games_sales.csv 
-    Years Covered: 2
+    Years Covered: 1984-2021
     
 ## About
 
