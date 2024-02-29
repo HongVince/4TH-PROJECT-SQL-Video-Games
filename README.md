@@ -34,9 +34,15 @@ This project explores video game sales data to understand the market share for t
 
 ### 1) Genre and Game Titles
 
+Conducting analysis on the dataset of different genres and titles to gauge the trendiest genre, and which publisher produces the most.
+
 ### 2) Publishers and their Developers
 
+Identifying the various developers associated with each publisher will shed light into the market share a particular publisher owns.
+
 ### 3) The Release Year
+
+The release year of a title provides important insight such as 
 
 ## Approaches Used
 
