@@ -54,7 +54,7 @@ The release year of a title provides important insights such as when a genre gai
 2) **Engineering New Features:**
 
        a) Creating functions to extract the year and month of each title - since the date is not in a DATETIME format
-       b) Creating Sub Queries to illustrate the total market share by publisher
+       b) Creating sub queries to illustrate the total market share by publisher
        c) Creating various views to implement into Tableau for visualization and analysis
 
 ## Questions Answered
